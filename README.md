@@ -1,0 +1,1 @@
+# git-journey is cool!
